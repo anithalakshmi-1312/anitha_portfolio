@@ -24,19 +24,13 @@ nav ul li a{
     padding: 6px;
 }
 
-.section-blocks{
-    background-color: pink;
-    margin-bottom: 30px;
-    border-radius: 30px;
-}
-
 nav ul li a:hover{
     color: #3498db;
-    border: 3px solid #fff;
+    border: solid 3px black;
 }
 
 .section-blocks{
-    background-color: #3498db;
+    background-color: pink;
     margin-bottom: 30px;
     border-radius: 30px;
 }
